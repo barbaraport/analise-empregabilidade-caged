@@ -1,0 +1,5 @@
+1. Eu, como jornalista, quero visualizar a quantidade de homens e mulheres, brancos e negros, admitidos e demitidos para que eu obtenha conteúdo para a minha matéria.
+2. Eu, como jornalista, quero visualizar o grau de instrução de homens e mulheres, brancos e negros, para que eu obtenha conteúdo para a minha matéria.
+3. Eu, como jornalista, quero visualizar o salário de homens e mulheres, brancos e negros, para que eu obtenha conteúdo para a minha matéria.
+4. Eu, como jornalista, quero visualizar a quantidade de homens e mulheres, brancos e negros, com algum tipo de deficiência para que eu obtenha conteúdo para a minha matéria.
+5. Eu, como jornalista, quero visualizar a quantidade de estabelecimentos de cada região.
