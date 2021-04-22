@@ -3,3 +3,8 @@
 3. Eu, como jornalista, quero visualizar o salário de homens e mulheres, brancos e negros, para que eu obtenha conteúdo para a minha matéria.
 4. Eu, como jornalista, quero visualizar a quantidade de homens e mulheres, brancos e negros, com algum tipo de deficiência para que eu obtenha conteúdo para a minha matéria.
 5. Eu, como jornalista, quero visualizar a quantidade de estabelecimentos de cada região.
+6. Eu, como jornalista, quero comparar as idades de homens e mulheres na área de TI, admitidos e demitidos para que eu obtenha conteúdo para minha matéria.
+7. Eu, como jornalista, quero comparar as horas contratuais na área de TI de homens e mulheres, admitidos para que eu obtenha conteúdo para minha matéria.
+8. Eu, como jornalista, quero comparar a quantidade de mulheres na área de TI do Vale do Paraíba com outras regiões do estado,admitidas para que eu obtenha conteúdo para minha matéria.
+9. Eu, como jornalista, quero um manual simples e didático de como utilizar a aplicação.
+10.Eu, como jornalista quero acessar e utilizar os dados analisados de forma visual, por exemplo gráficos, que possam ser utilizados em diversos meios de comunicação como TV,site e aplicativo do jornal.
