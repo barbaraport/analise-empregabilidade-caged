@@ -1,2 +1,17 @@
-# analise-homens-mulheres-caged
-Projeto da disciplina de Estrutura de Dados, ministrada pelo professor Fernando Masanori.
+<html>
+  <h1 align="center">Análise de empregabilidade :office::briefcase:</h1>
+  <h5 align="center">Microdados CAGED</h4><br>
+  <p>Projeto da disciplina de Estrutura de Dados, ministrada pelo professor Fernando Masanori.</p><br>
+  
+  <h2>:pushpin:	Integrantes da equipe :girl::boy:</h2>
+    <ul>
+      <li><a href="https://www.linkedin.com/in/ana-clara-godoy-2973381b2/">Ana Clara Ferreira de Godoy</a>
+      <li><a href="https://www.linkedin.com/in/anna-yukimi-yamada-6ba23b149/">Anna Yukimi Yamada</a>
+      <li><a href="https://www.linkedin.com/in/barbara-bidetti-bb910a1b3/">Barbara Bidoia Bidetti</a>
+      <li><a href="https://www.linkedin.com/in/b%C3%A1rbara-port-402158198/">Bárbara dos Santos Port</a>
+      <li><a href="https://www.linkedin.com/in/felipe-silva-13b3b61a0/">Felipe Silva</a>
+      <li><a href="https://www.linkedin.com/in/giovanni-santos-546412154/">Giovanni dos Santos Alves</a>
+      <li><a href="https://www.linkedin.com/in/nicholas-gabriel-dos-santos-roque-9113511b2/">Nicholas Gabriel dos Santos Roque</a>
+    </ul>
+  
+</html>
