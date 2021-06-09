@@ -13,3 +13,4 @@ xlrd
 twitter-scraper
 markovify
 folium
+openpyxl
