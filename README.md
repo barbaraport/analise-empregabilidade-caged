@@ -1,10 +1,10 @@
 <html>
-  <h1 align="center">Análise de empregabilidade :office::briefcase:</h1>
+  <h1 align="center">Análise de Empregabilidade :office::briefcase:</h1>
   <h5 align="center">Microdados CAGED</h4><br>
   <p>Projeto da disciplina de Estrutura de Dados, ministrada pelo professor Fernando Masanori. Para visualizá-lo, clique <a href="https://github.com/barbaraport/analise-empregabilidade-caged/blob/main/analise-empregabilidade-caged.ipynb">aqui</a>.</p><br>
   
 
-  <h2>:pushpin:	Integrantes da equipe :girl::boy:</h2>
+  <h2>:pushpin:	Integrantes da Equipe :girl::boy:</h2>
     <ul>
       <li><a href="https://www.linkedin.com/in/ana-clara-godoy-2973381b2/">Ana Clara Ferreira de Godoy</a>
       <li><a href="https://www.linkedin.com/in/anna-yukimi-yamada-6ba23b149/">Anna Yukimi Yamada</a>
