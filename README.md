@@ -6,7 +6,11 @@
   <h2>:bar_chart: Veja uma prévia de alguns dos gráficos! :chart_with_upwards_trend:</h2>
   <img src="https://raw.githubusercontent.com/barbaraport/analise-empregabilidade-caged/main/doc/charts/pessoas_admitidas_genero_2020_.jpg">
   <img src="https://raw.githubusercontent.com/barbaraport/analise-empregabilidade-caged/main/doc/charts/pessoas_desligadas_genero_2020.png">
-  <img src="https://raw.githubusercontent.com/barbaraport/analise-empregabilidade-caged/main/doc/charts/pessoas_admitidas_faixa_etaria_2020_.jpg">
+  <img src="https://raw.githubusercontent.com/barbaraport/analise-empregabilidade-caged/main/doc/charts/pessoas_admitidas_faixa_etaria_2020.png">
+  
+  <p>A pedido do professor, realizamos alguns gráficos para São José dos Campos - SP. Confira-os abaixo!</p>
+  <img src="https://raw.githubusercontent.com/barbaraport/analise-empregabilidade-caged/main/doc/charts/pessoas_admitidas_faixa_etaria_2020_sjc.png">
+  <img src="https://raw.githubusercontent.com/barbaraport/analise-empregabilidade-caged/main/doc/charts/pessoas_admitidas_faixa_etaria_2021_sjc.png">
   
   <h2>:pushpin:	Integrantes da Equipe :girl::boy:</h2>
     <ul>
